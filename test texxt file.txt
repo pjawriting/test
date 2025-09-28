@@ -1,1 +1,1 @@
-this is a text file to test branching
+THIS IS A TEST FILE TO TEST BRANCHING
