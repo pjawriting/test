@@ -1,1 +1,1 @@
-THIS IS A TEST FILE TO TEST BRANCHING
+THIS IS A TEST FILE TO TEST BRANCHING and now i'm adding text to test branch 2
